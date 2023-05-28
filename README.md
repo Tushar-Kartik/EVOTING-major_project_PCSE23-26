@@ -1,2 +1,3 @@
 # EVOTING-major_project_PCSE23-26
 project aims to revolutionize the traditional voting process by implementing a highly secure and reliable eVoting system based on the AWS cloud server infrastructure. Leveraging the advanced capabilities of AWS, we provide an efficient and transparent platform for elections, ensuring the integrity and confidentiality of the voting process.
+our eVoting project leverages the secure and scalable infrastructure of AWS cloud servers to provide an innovative, transparent, and highly secure voting platform. By combining advanced security measures, immutability, accessibility, and data privacy, we aim to revolutionize the voting experience while maintaining the highest standards of integrity and trust.
